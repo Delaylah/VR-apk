@@ -1,5 +1,5 @@
 # VR-apk
-Da bi se uspjesno instaliralo na android uređaj neophodno je skinuti android sdk (https://developer.android.com/sdk/download.html) i skinuti verziju za uređaj na koji se builda. 
+Da bi se uspjesno instaliralo na android uređaj neophodno je skinuti android sdk (https://developer.android.com/sdk/download.html) i  u toolse android.exe skinuti verziju za uređaj na koji se builda. 
 Ukljuciti mobile device u racunar(da mu je uključen USB debugger- preko developer options)  
 Otvoriti CMD i upisati 
 
