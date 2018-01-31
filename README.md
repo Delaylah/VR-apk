@@ -7,3 +7,5 @@ Otvoriti CMD i upisati
  
 ;adb install //+i ide puna putanja do apk fajla//;
 
+Da bi se uspjesno pokrenulo neophodno je isntalirati na android uređaju GoogleCardboard aplikaciju. 
+
