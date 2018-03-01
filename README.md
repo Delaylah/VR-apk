@@ -5,13 +5,14 @@ Feel free to contact me  for source code or any related questions about this VR 
 
 
 
-
 For successiful installation you need to download SDK(latest version, set up android.bat for your Android version), plug in mobile device in computer(dont forget to turn on developer mode).
-In Command Prompt enter: 
 
-;cd  C:\Users\....\...\AndroidSDK\platform-tools;
 
-;adb install //+full instalation path to apk folder//;
+**In Command Prompt enter: 
+
+***;cd  C:\Users\....\...\AndroidSDK\platform-tools;
+
+***;adb install //+full instalation path to apk folder//;
 
 
 
