@@ -1,10 +1,15 @@
 # VR-apk
+VR-apk example made in Unity for android devices. 
+Feel free to contact me  for source code or any related questions about this VR app/apk .
 
-#VR-apk example made in Unity for android devices. * GoogleCardboard for programming in Unity: 
 
-For successiful installation need to download SDK(Latest version, set up andrpid.bat for Android version), plug in mobile device in computer(turn on developer mode).
+
+
+For successiful installation you need to download SDK(latest version, set up android.bat for your Android version), plug in mobile device in computer(dont forget to turn on developer mode).
 In Command Prompt enter: 
+
 ;cd  C:\Users\....\...\AndroidSDK\platform-tools;
+
 ;adb install //+full instalation path to apk folder//;
 
 
